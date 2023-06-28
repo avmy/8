@@ -1,3 +1,3 @@
-s = input()
-h = len(s) // 2
-print(s[:h] == s[:len(s)-h-1:-1])
+a = input()
+b = len(a) // 2
+print(a[:b] == a[:len(a)-b-1:-1])
