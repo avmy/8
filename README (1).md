@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="styles.css">
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -14,9 +15,9 @@
 <h4>Заголовок 4 уровня</h4>
 <h5>Заголовок 5 уровня</h5>
 <h6>Заголовок 6 уровня</h6>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis error fugiat id sapiente! Accusantium, aperiam aspernatur autem commodi consectetur est explicabo harum itaque, natus nemo numquam placeat, repudiandae sequi tempora.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto autem commodi consectetur deserunt eum ex illum ipsam laborum laudantium minus, nemo, officia omnis perspiciatis ratione saepe sit soluta tenetur voluptas.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt eius error est voluptates! Assumenda eaque et, hic id inventore ipsam iste nam necessitatibus neque nostrum, quo quos sequi, unde vero.</p>
+<p class="p1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis error fugiat id sapiente! Accusantium, aperiam aspernatur autem commodi consectetur est explicabo harum itaque, natus nemo numquam placeat, repudiandae sequi tempora.</p>
+<p class="p2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto autem commodi consectetur deserunt eum ex illum ipsam laborum laudantium minus, nemo, officia omnis perspiciatis ratione saepe sit soluta tenetur voluptas.</p>
+<p class="p3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt eius error est voluptates! Assumenda eaque et, hic id inventore ipsam iste nam necessitatibus neque nostrum, quo quos sequi, unde vero.</p>
 <div>
 <span>dmspdmpsdk</span>
 </div>
@@ -29,6 +30,6 @@
     <li>3 элемент</li>
 </ul>
 <img src="https://www.sunny-cat.ru/datas/users/1-felina003.jpg">
-</p>
 </body>
 </html>
+
